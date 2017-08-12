@@ -1,6 +1,6 @@
-# tachyons-debug-children 1.2.6
+# tachyons-debug-children 1.0.0
 
-Base CSS module for Tachyons
+Tachyons module for debugging layout for all of an elements children
 
 #### Stats
 
@@ -55,7 +55,7 @@ $ tachyons path/to/css-file.css > dist/t.css
 The easiest and most simple way to use the css is to use the cdn hosted version. Include it in the head of your html with:
 
 ```
-<link rel="stylesheet" href="http://unpkg.com/tachyons-debug-children@1.2.6/css/tachyons-debug-children.min.css" />
+<link rel="stylesheet" href="http://unpkg.com/tachyons-debug-children@1.0.0/css/tachyons-debug-children.min.css" />
 ```
 
 ##### Locally
